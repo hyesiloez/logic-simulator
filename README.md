@@ -4,19 +4,3 @@ the simple simulator computes the outputs of circuits containing NOT, OR and AND
 This implementation is part of an academical assignment where the api and the test script are provided by the host "gitlab.uni-hannover.de".
 
 Clone the repository, then type ./test.bash to run the program on all circuit examples.
-
-```
-code .
-```
-
-## Generate doxygen documentation in folder doc
-
-```
-doxygen implementation/Doxyfile
-```
-
-## Run all examples
-
-```
-./test.bash
-```
